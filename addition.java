@@ -20,4 +20,8 @@ public class addition {
     public void printGreeting() {
         System.out.println("Hello from Sam Keller");
     }
+
+     public void printGreeting() {
+        System.out.println("Hi from Esha Attiq");
+    }
 }
