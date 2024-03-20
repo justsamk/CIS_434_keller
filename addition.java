@@ -1,7 +1,7 @@
 public class addition {
     public static void main(String[] args) {
-        int num1 = 5;
-        int num2 = 10;
+        int num1 = 6;
+        int num2 = 9;
 
         int sum = additionMeth(num1, num2);
 
