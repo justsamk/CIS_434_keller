@@ -16,4 +16,8 @@ public class addition {
      public static int SubMeth(int num1, int num2) {
         return num1 + num2;
     }
+
+    public void printGreeting() {
+        System.out.println("Hello from Sam Keller");
+    }
 }
